@@ -1,0 +1,34 @@
+{
+  "collections": [
+    {
+      "name": "Piano",
+      "performances": [
+        {
+          "name": "Moonlight Sonata",
+          "year": 2019,
+          "event": "Annual Spring Recital"
+        },
+        {
+          "name": "The Plan",
+          "year": 2019,
+          "event": "Masterclass"
+        }
+      ]
+    },
+    {
+      "name": "Choir",
+      "performances": [
+        {
+          "name": "I'm Dreaming of a White Christmas",
+          "year": 2019,
+          "event": "Christmas Eve"
+        },
+        {
+          "name": "Carol of the Bells",
+          "year": 2018,
+          "event": "Christmas Eve"
+        }
+      ]
+    }
+  ]
+}
